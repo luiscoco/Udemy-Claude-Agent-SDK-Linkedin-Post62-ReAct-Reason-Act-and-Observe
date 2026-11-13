@@ -1,0 +1,17 @@
+{
+  "lesson": 61,
+  "application": "Observable Tool Cycle",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "reference_observations": [
+      {
+        "id": "refunds",
+        "text": "Refund requests must be made within 30 days."
+      }
+    ],
+    "answer": "refunds.txt states a 30-day refund request window.",
+    "iteration_limit": 8
+  },
+  "measured_cost_usd": null
+}

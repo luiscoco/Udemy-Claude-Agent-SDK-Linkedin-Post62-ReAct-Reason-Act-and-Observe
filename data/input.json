@@ -1,0 +1,13 @@
+{
+  "question": "Which document defines the refund window?",
+  "documents": [
+    {
+      "id": "refunds",
+      "text": "Refund requests must be made within 30 days."
+    },
+    {
+      "id": "shipping",
+      "text": "Shipping usually takes 3 days."
+    }
+  ]
+}

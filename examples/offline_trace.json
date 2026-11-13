@@ -1,0 +1,20 @@
+[
+  {
+    "sequence": 1,
+    "kind": "local_observation",
+    "matches": 1,
+    "source": "bundled documents"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_started",
+    "stage": "tool_cycle",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_finished",
+    "stage": "tool_cycle",
+    "elapsed_seconds": 0.0002
+  }
+]

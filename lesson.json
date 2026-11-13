@@ -1,0 +1,16 @@
+{
+  "lesson": 61,
+  "title": "ReAct - Reason, Act, and Observe",
+  "application": "Observable Tool Cycle",
+  "purpose": "Use a narrow Read/Grep/Glob catalogue and distinguish local observations, model explanation and final SDK status.",
+  "exercise": "Remove the refund document. The agent should report missing evidence, rather than reuse the fixture answer in live mode.",
+  "source_topics": [
+    "00-Arquitectura ReAct_ razonar, actuar y observar.png",
+    "01-Understand-the-ReAct-Cycle.png",
+    "02-Configure-a-Focused-Tool-Catalog.png",
+    "03-Follow-One-Tool-Cycle.png",
+    "04-Use-Observations-and-Handle-Errors.png",
+    "05-Control-Iteration-and-Completion.png",
+    "06-Trace-a-Grounded-Research-Task.png"
+  ]
+}
